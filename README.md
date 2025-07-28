@@ -1,24 +1,38 @@
-### Hello there! 👋
+## 👋 About Me
 
-I'm Samuel Wallace, an enthusiastic and driven AI/ML student with a passion for exploring cutting-edge technologies and methodologies. Currently pursuing my Master's degree in Artificial Intelligence at the University of Zürich, I'm on a mission to push the boundaries of innovation and contribute to solving practical problems in the field of AI.
+I’m a Master’s student in Artificial Intelligence at the University of Zurich, with a First Class Honours degree in Mathematics from the University of Bristol. My academic path has given me a strong foundation in probabilistic modeling, optimization, and algorithm design, which I now apply to real-world problems in machine learning and AI.
 
-## Background:
+## 🔍 Research Interests
 
-🎓 Completed a Bachelor's degree in Mathematics with a 1st class degree (> 70%) from the University of Bristol.
-📚 Currently pursuing a Master's degree in Artificial Intelligence at the University of Zürich.
-🌟 Solid foundation in advanced machine learning, NLP, transformer implementation, deep learning, data science, and computer graphics.
-## Research Focus:
+My focus lies at the intersection of:
 
-🧠 Led research projects evaluating the effectiveness of Gaussian and Laplacian attention mechanisms within transformer architectures to enhance model explainability.
-💡 Firm believer in the importance of bolstering model explainability to ensure fair and proportional utilization of AI technologies, especially in light of evolving regulatory landscapes.
-## Software Development Skills:
+- **Reinforcement Learning** and control
+- **Computer Vision** and visual SLAM
+- **Generative Modeling** (Diffusion Models, GANs, Transformers)
+- **Model Interpretability** and attention-based architectures
 
-💻 Hands-on experience in building robust software solutions.
-🛠️ Contributed to the development of a Geoguesser website using React for frontend design and Springboot in Java for server-side security and efficient mapping functionalities.
-📈 Implemented quick-sort algorithms for ranking purposes, demonstrating proficiency in algorithmic design and optimization.
-## Interests and Hobbies:
+I'm currently a Teaching Assistant for the graduate-level RL course at UZH, and I’ll begin my thesis at the Robotic Perception Group (RPG Lab) focusing on high-speed facial feature tracking using event-based vision sensors.
 
-🌄 Passionate outdoorsman with a love for climbing and expeditions.
-🎵 Avid musician with accomplishments in guitar and piano, finding parallels between refining musical pieces and working on ML problems.
-📚 Language enthusiast currently learning French and German, with plans to undertake language proficiency exams.
-I'm excited to collaborate with like-minded individuals and contribute to driving innovation forward in the AI/ML landscape. Let's connect and explore possibilities together!
+## 🧠 Projects & Experience
+
+Some highlights from recent projects:
+
+- **Laplacian Attention**: Developed and evaluated novel self-attention mechanisms for explainability in transformer models, fine-tuning Meta’s LLaMA 7B on NLP datasets.
+- **Synthetic CT Generation**: Built deep learning pipelines using SwinUNETR and diffusion-based architectures for MR-to-CT translation, with domain-specific preprocessing and evaluation.
+- **Visual Odometry**: Implemented monocular VO using SIFT, RANSAC, and PnP for pose estimation with trajectory visualization.
+- **Sign Language Translator**: Combined CNNs and MediaPipe for gesture recognition, achieving 90%+ accuracy in real-time translation tasks.
+- **Full-Stack Projects**: Developed a multiplayer GeoGuess-style quiz game using Java (Spring Boot + REST APIs) and React.
+
+## 🛠 Tech Stack
+
+**Languages:** Python, Java, C++, SQL, R  
+**Libraries/Tools:** PyTorch, NumPy, scikit-learn, Hugging Face, OpenCV, MediaPipe, Docker, Git, spaCy  
+**Specialized:** Reinforcement Learning frameworks, SLAM toolkits, SPARQL/Wikidata queries
+
+## 🌍 Other Interests
+
+Outside of ML, I’m an avid climber, pianist, and language learner (currently studying French and German). I enjoy solving problems that blend structure with creativity — both in code and in life.
+
+## 🤝 Let's Connect
+
+I'm always open to interesting collaborations or research opportunities in AI, robotics, and machine learning. Feel free to reach out!
