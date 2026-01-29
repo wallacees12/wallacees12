@@ -1,38 +1,37 @@
-## 👋 About Me
+# Samuel Wallace
 
-I’m a Master’s student in Artificial Intelligence at the University of Zurich, with a First Class Honours degree in Mathematics from the University of Bristol. My academic path has given me a strong foundation in probabilistic modeling, optimization, and algorithm design, which I now apply to real-world problems in machine learning and AI.
+I'm a Master's student in Artificial Intelligence at the University of Zurich, building on a First Class Honours in Mathematics from the University of Bristol. My background combines rigorous mathematical training with applied machine learning research, giving me a foundation that spans both theoretical finance and modern AI systems.
 
-## 🔍 Research Interests
+## Current Work
 
-My focus lies at the intersection of:
+I recently completed my Master's thesis at the [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/) at UZH, developing real-time facial feature tracking using synchronized high-speed and neuromorphic event cameras. The work focuses on leveraging the low-latency, high-temporal resolution capabilities of event-based sensors for robust motion analysis.
 
-- **Reinforcement Learning** and control
-- **Computer Vision** and visual SLAM
-- **Generative Modeling** (Diffusion Models, GANs, Transformers)
-- **Model Interpretability** and attention-based architectures
+I also serve as a Teaching Assistant for the graduate-level [Reinforcement Learning course](https://sites.google.com/view/alpi-lab) at UZH, supporting students with algorithm implementation and the theory behind policy gradient methods, value-based learning, and actor-critic architectures.
 
-I'm currently a Teaching Assistant for the graduate-level RL course at UZH, and I’ll begin my thesis at the Robotic Perception Group (RPG Lab) focusing on high-speed facial feature tracking using event-based vision sensors.
+## Background
 
-## 🧠 Projects & Experience
+My mathematics degree at Bristol covered probability theory, stochastic processes, and optimization, with particular focus on financial applications through courses in Financial Mathematics and Financial Risk Management. At UZH, I'm continuing this direction through the Statistical Finance course offered jointly with ETH as part of the Quantitative Finance track, while deepening my expertise in machine learning and AI.
 
-Some highlights from recent projects:
+This combination of mathematical foundations and applied ML research positions me to work across quantitative finance, machine learning engineering, and computer vision research.
 
-- **Laplacian Attention**: Developed and evaluated novel self-attention mechanisms for explainability in transformer models, fine-tuning Meta’s LLaMA 7B on NLP datasets.
-- **Synthetic CT Generation**: Built deep learning pipelines using SwinUNETR and diffusion-based architectures for MR-to-CT translation, with domain-specific preprocessing and evaluation.
-- **Visual Odometry**: Implemented monocular VO using SIFT, RANSAC, and PnP for pose estimation with trajectory visualization.
-- **Sign Language Translator**: Combined CNNs and MediaPipe for gesture recognition, achieving 90%+ accuracy in real-time translation tasks.
-- **Full-Stack Projects**: Developed a multiplayer GeoGuess-style quiz game using Java (Spring Boot + REST APIs) and React.
+## Selected Projects
 
-## 🛠 Tech Stack
+**[Synthetic CT Generation](https://github.com/sCT-Masters-Project)** — Built generative models (CycleGAN, diffusion, transformer UNet) for MR-to-CT medical image translation with custom preprocessing and augmentation pipelines.
 
-**Languages:** Python, Java, C++, SQL, R  
-**Libraries/Tools:** PyTorch, NumPy, scikit-learn, Hugging Face, OpenCV, MediaPipe, Docker, Git, spaCy  
-**Specialized:** Reinforcement Learning frameworks, SLAM toolkits, SPARQL/Wikidata queries
+**[Laplacian Attention](https://github.com/wallacees12/AML-Laplacian-Attention)** — Implemented a novel self-attention mechanism extending Gaussian attention with Laplacian approximations for improved model interpretability. Experimented with Meta's LLaMA 7B on domain-specific datasets.
 
-## 🌍 Other Interests
+**[Sign Language Translator](https://github.com/wallacees12/Sign-Language-Detection)** — Developed a CNN-based translation system achieving over 90% accuracy using MediaPipe for hand gesture recognition through keypoint tracking.
 
-Outside of ML, I’m an avid climber, pianist, and language learner (currently studying French and German). I enjoy solving problems that blend structure with creativity — both in code and in life.
+## Technical Skills
 
-## 🤝 Let's Connect
+**Languages:** Python, C/C++, R, SQL
+**ML/DL:** PyTorch, NumPy, Pandas, scikit-learn, Hugging Face Transformers
+**Finance:** Time series analysis, Monte Carlo simulation, derivatives pricing, risk modeling
+**Vision:** OpenCV, MediaPipe, event camera toolkits
+**Tools:** Git, Docker, Linux
 
-I'm always open to interesting collaborations or research opportunities in AI, robotics, and machine learning. Feel free to reach out!
+## Contact
+
+Open to opportunities in quantitative finance, machine learning engineering, computer vision, and research positions.
+
+[LinkedIn](https://linkedin.com/in/samuel-fwallace) · [Email](mailto:wallacees12@gmail.com)1
