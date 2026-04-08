@@ -30,6 +30,8 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 **[GeoGuessr Game](https://github.com/wallacees12/SoPra-Client)** — Full-stack web GeoGuessr-style game built for the UZH Software Practice course. React/TypeScript frontend, Java Spring Boot backend, multiplayer support. `Java` `TypeScript` `React` `Spring Boot`
 
+<img src="mapmystery_demo.gif" width="720"/>
+
 **[Movie Chatbot (ATAI)](https://github.com/wallacees12/Chatbot_ATAI)** — Knowledge-graph-backed conversational agent for movie Q&A. SPARQL queries over an RDF graph, spaCy NER + hardcoded entity linking, TransE embedding fallback for unseen relations, crowd-sourced answer validation, and a multimedia branch that retrieves IMDb stills. Built for UZH's Advanced Topics in AI course. `Python` `RDF` `SPARQL` `spaCy` `PyTorch`
 
 <img src="chatbot_demo.gif" width="900"/>
@@ -40,7 +42,9 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 <img src="nbody_demo.gif" width="480"/>
 
-**[Sign Language Translator](https://github.com/wallacees12/Sign-Language-Detection)** — CNN + MediaPipe hand keypoint pipeline for real-time sign language recognition, >90% accuracy. `Python` `MediaPipe`
+**[Sign Language Translator](https://github.com/wallacees12/Sign-Language-Detection)** — Real-time ASL fingerspelling. A feed-forward network classifies MediaPipe hand-keypoint geometry (21 landmarks, 3D) and spells words live from the webcam by holding each letter for one second. >90% accuracy on the keypoint model, vs >75% for a raw-image CNN baseline. `Python` `MediaPipe` `TensorFlow` `Computer Vision`
+
+<img src="sign_language_demo.gif" width="600"/>
 
 ---
 
