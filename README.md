@@ -20,7 +20,7 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 <img src="event_on_mesh.gif" width="380"/>
 
-**[Synthetic CT Generation](https://github.com/wallacees12/3d-pix2pix-CycleGAN)** — Earlier work on MR-to-CT translation using CycleGAN and pix2pix with 3D volumetric inputs. `Python` `PyTorch` `GAN`
+**[Synthetic CT Generation](https://github.com/wallacees12/3d-pix2pix-CycleGAN)** — Earlier work on MR-to-CT translation using CycleGAN and pix2pix with 3D volumetric inputs. `Python` `PyTorch` `GAN` `Diffusion` `Transformers` `Computer Vision` `SWIN` 
 
 <img src="sct_animation.gif" width="480"/>
 
