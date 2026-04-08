@@ -30,7 +30,7 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 **[Movie Chatbot (ATAI)](https://github.com/wallacees12/Chatbot_ATAI)** — Knowledge-graph-backed conversational agent for movie Q&A. SPARQL queries over an RDF graph, spaCy NER + hardcoded entity linking, TransE embedding fallback for unseen relations, crowd-sourced answer validation, and a multimedia branch that retrieves IMDb stills. Built for UZH's Advanced Topics in AI course. `Python` `RDF` `SPARQL` `spaCy` `PyTorch`
 
-<img src="chatbot_demo.gif" width="720"/>
+<img src="chatbot_demo.gif" width="900"/>
 
 **[Laplacian Attention](https://github.com/wallacees12/AML-Laplacian-Attention)** — Self-attention variant extending Gaussian attention with Laplacian approximations for improved interpretability. Evaluated on Meta's LLaMA 7B. `Python` `PyTorch` `NLP`
 
