@@ -18,6 +18,8 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 **[Event-based Facial Tracking](https://github.com/wallacees12/EFT)** — MSc thesis. Event cameras + ETAP landmark tracking + B-spline fitting + two-pass FLAME optimisation. Beats linear interpolation and TimeLens on FAN landmark error across all rapid motion sequences. `Python` `PyTorch` `Computer Vision`
 
+<img src="event_on_mesh.gif" width="380"/>
+
 **[ContourDiff](https://github.com/wallacees12/ContourDiff)** — Contour-guided diffusion model for unpaired medical image translation (MR → synthetic CT). Extracts domain-invariant anatomical contours to enforce anatomical consistency across imaging modalities. `Python` `PyTorch` `Diffusion Models`
 
 **[Synthetic CT Generation](https://github.com/wallacees12/3d-pix2pix-CycleGAN)** — Earlier work on MR-to-CT translation using CycleGAN and pix2pix with 3D volumetric inputs. `Python` `PyTorch` `GAN`
