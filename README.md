@@ -26,6 +26,8 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 **[Multimodal Cancer Classification](https://github.com/wallacees12/Multimodal_Cancer_Classification_Challenge_2025)** — Binary cancer cell classification combining bright-field and fluorescence microscopy into 6-channel inputs for a fine-tuned ConvNeXt-Large. Top finish in the UZH challenge. `Python` `PyTorch`
 
+<img src="cancer_demo.png" width="720"/>
+
 **[GeoGuessr Game](https://github.com/wallacees12/SoPra-Client)** — Full-stack web GeoGuessr-style game built for the UZH Software Practice course. React/TypeScript frontend, Java Spring Boot backend, multiplayer support. `Java` `TypeScript` `React` `Spring Boot`
 
 **[Movie Chatbot (ATAI)](https://github.com/wallacees12/Chatbot_ATAI)** — Knowledge-graph-backed conversational agent for movie Q&A. SPARQL queries over an RDF graph, spaCy NER + hardcoded entity linking, TransE embedding fallback for unseen relations, crowd-sourced answer validation, and a multimedia branch that retrieves IMDb stills. Built for UZH's Advanced Topics in AI course. `Python` `RDF` `SPARQL` `spaCy` `PyTorch`
@@ -34,9 +36,9 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 **[Laplacian Attention](https://github.com/wallacees12/AML-Laplacian-Attention)** — Self-attention variant extending Gaussian attention with Laplacian approximations for improved interpretability. Evaluated on Meta's LLaMA 7B. `Python` `PyTorch` `NLP`
 
-**[OpenMP Parallelisation](https://github.com/wallacees12/OpenMP-Parallelisation)** — High-performance parallel computing implementations in C using OpenMP. `C` `OpenMP`
+**[OpenMP Parallelisation](https://github.com/wallacees12/OpenMP-Parallelisation)** — High-performance parallel computing in C with OpenMP, including a multi-threaded N-body galaxy simulation (galsim) with per-thread force accumulation and barrier-free reduction. `C` `OpenMP`
 
-**[Seahorse Recognition](https://github.com/wallacees12/Seahorse-Recognition)** — Individual seahorse tracking and re-identification for marine conservation monitoring off the English coast. `Python` `Computer Vision`
+<img src="nbody_demo.gif" width="420"/>
 
 **[Sign Language Translator](https://github.com/wallacees12/Sign-Language-Detection)** — CNN + MediaPipe hand keypoint pipeline for real-time sign language recognition, >90% accuracy. `Python` `MediaPipe`
 
