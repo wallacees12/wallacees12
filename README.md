@@ -22,6 +22,8 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 **[Synthetic CT Generation](https://github.com/wallacees12/3d-pix2pix-CycleGAN)** — Earlier work on MR-to-CT translation using CycleGAN and pix2pix with 3D volumetric inputs. `Python` `PyTorch` `GAN`
 
+<img src="sct_animation.gif" width="480"/>
+
 **[Multimodal Cancer Classification](https://github.com/wallacees12/Multimodal_Cancer_Classification_Challenge_2025)** — Binary cancer cell classification combining bright-field and fluorescence microscopy into 6-channel inputs for a fine-tuned ConvNeXt-Large. Top finish in the UZH challenge. `Python` `PyTorch`
 
 **[GeoGuessr Game](https://github.com/wallacees12/SoPra-Client)** — Full-stack web GeoGuessr-style game built for the UZH Software Practice course. React/TypeScript frontend, Java Spring Boot backend, multiplayer support. `Java` `TypeScript` `React` `Spring Boot`
