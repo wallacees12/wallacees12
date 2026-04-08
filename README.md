@@ -20,8 +20,6 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 <img src="event_on_mesh.gif" width="380"/>
 
-**[ContourDiff](https://github.com/wallacees12/ContourDiff)** — Contour-guided diffusion model for unpaired medical image translation (MR → synthetic CT). Extracts domain-invariant anatomical contours to enforce anatomical consistency across imaging modalities. `Python` `PyTorch` `Diffusion Models`
-
 **[Synthetic CT Generation](https://github.com/wallacees12/3d-pix2pix-CycleGAN)** — Earlier work on MR-to-CT translation using CycleGAN and pix2pix with 3D volumetric inputs. `Python` `PyTorch` `GAN`
 
 <img src="sct_animation.gif" width="480"/>
