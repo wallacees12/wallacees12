@@ -38,7 +38,7 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 **[OpenMP Parallelisation](https://github.com/wallacees12/OpenMP-Parallelisation)** — High-performance parallel computing in C with OpenMP, including a multi-threaded N-body galaxy simulation (galsim) with per-thread force accumulation and barrier-free reduction. `C` `OpenMP`
 
-<img src="nbody_demo.gif" width="560"/>
+<img src="nbody_demo.gif" width="480"/>
 
 **[Sign Language Translator](https://github.com/wallacees12/Sign-Language-Detection)** — CNN + MediaPipe hand keypoint pipeline for real-time sign language recognition, >90% accuracy. `Python` `MediaPipe`
 
