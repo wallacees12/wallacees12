@@ -6,7 +6,7 @@ MSc Artificial Intelligence @ University of Zurich · BSc Mathematics (First Cla
 
 ## What I'm up to
 
-Just finished my Master's thesis at the [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/) at UZH, where I worked on high-temporal-resolution 3D facial tracking using event cameras. The idea is to use the microsecond-resolution output of neuromorphic sensors to fit a FLAME 3D head model at sub-frame intervals — capturing blinking, jaw movement, and rapid head rotation that standard video completely misses between frames. We're currently preparing a submission to **BMVC 2026**.
+Just finished my Master's thesis at the [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/) at UZH, working on high-temporal-resolution 3D facial tracking using event cameras — fitting a FLAME head model at sub-frame resolution by using the microsecond-level output of neuromorphic sensors to track landmarks between video frames. Captures blinking, jaw movement, and rapid head rotations that standard video completely misses. Preparing a submission to **BMVC 2026**.
 
 In August I'm joining **Expedia Group** as a Machine Learning Scientist.
 
@@ -16,20 +16,30 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 ## Projects
 
-**[Event-based Facial Tracking](https://github.com/wallacees12/EFT.git)** — MSc thesis. Event cameras + ETAP landmark tracking + B-spline fitting + two-pass FLAME optimisation. Beats linear interpolation and TimeLens on FAN landmark error across rapid motion sequences.
+**[Event-based Facial Tracking](https://github.com/wallacees12/EFT)** — MSc thesis. Event cameras + ETAP landmark tracking + B-spline fitting + two-pass FLAME optimisation. Beats linear interpolation and TimeLens on FAN landmark error across all rapid motion sequences. `Python` `PyTorch` `Computer Vision`
 
-**[Synthetic CT Generation](https://github.com/sCT-Masters-Project)** — MR-to-CT medical image translation using CycleGAN, diffusion models, and transformer UNets.
+**[ContourDiff](https://github.com/wallacees12/ContourDiff)** — Contour-guided diffusion model for unpaired medical image translation (MR → synthetic CT). Extracts domain-invariant anatomical contours to enforce anatomical consistency across imaging modalities. `Python` `PyTorch` `Diffusion Models`
 
-**[Laplacian Attention](https://github.com/wallacees12/AML-Laplacian-Attention)** — Self-attention variant extending Gaussian attention with Laplacian approximations. Evaluated on Meta's LLaMA 7B.
+**[Synthetic CT Generation](https://github.com/wallacees12/3d-pix2pix-CycleGAN)** — Earlier work on MR-to-CT translation using CycleGAN and pix2pix with 3D volumetric inputs. `Python` `PyTorch` `GAN`
 
-**[Sign Language Translator](https://github.com/wallacees12/Sign-Language-Detection)** — CNN + MediaPipe keypoint pipeline, >90% accuracy.
+**[Multimodal Cancer Classification](https://github.com/wallacees12/Multimodal_Cancer_Classification_Challenge_2025)** — Binary cancer cell classification combining bright-field and fluorescence microscopy into 6-channel inputs for a fine-tuned ConvNeXt-Large. Top finish in the UZH challenge. `Python` `PyTorch`
+
+**[GeoGuessr Game](https://github.com/wallacees12/SoPra-Client)** — Full-stack web GeoGuessr-style game built for the UZH Software Practice course. React/TypeScript frontend, Java Spring Boot backend, multiplayer support. `Java` `TypeScript` `React` `Spring Boot`
+
+**[Laplacian Attention](https://github.com/wallacees12/AML-Laplacian-Attention)** — Self-attention variant extending Gaussian attention with Laplacian approximations for improved interpretability. Evaluated on Meta's LLaMA 7B. `Python` `PyTorch` `NLP`
+
+**[OpenMP Parallelisation](https://github.com/wallacees12/OpenMP-Parallelisation)** — High-performance parallel computing implementations in C using OpenMP. `C` `OpenMP`
+
+**[Seahorse Recognition](https://github.com/wallacees12/Seahorse-Recognition)** — Individual seahorse tracking and re-identification for marine conservation monitoring off the English coast. `Python` `Computer Vision`
+
+**[Sign Language Translator](https://github.com/wallacees12/Sign-Language-Detection)** — CNN + MediaPipe hand keypoint pipeline for real-time sign language recognition, >90% accuracy. `Python` `MediaPipe`
 
 ---
 
 ## Skills
 
-Python · PyTorch · C++ · OpenCV · event cameras · SQL · R
-Generative models · computer vision · reinforcement learning · time series
+Python · PyTorch · Java · C/C++ · TypeScript · R · SQL
+Computer vision · generative models · diffusion · event cameras · NLP · reinforcement learning
 
 ---
 
