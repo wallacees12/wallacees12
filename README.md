@@ -20,6 +20,10 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 <img src="event_on_mesh.gif" width="380"/>
 
+**[BabelBias](https://github.com/wallacees12/BabelBias)** — Investigating whether LLMs exhibit ingroup bias when prompted in different languages about geopolitically contested events. Embeds Wikipedia articles and LLM responses (GPT, Claude, Gemini) across EN/RU/UK to measure whether each language's response drifts toward its own Wikipedia framing. `Python` `OpenAI` `Anthropic` `Gemini` `NLP` `Embeddings`
+
+<img src="https://raw.githubusercontent.com/wallacees12/BabelBias/main/assets/pca_space.gif" width="480"/>
+
 **[Synthetic CT Generation](https://github.com/wallacees12/3d-pix2pix-CycleGAN)** — Competed in global competition to push the frontier of MR to CT synthesis in order to improve patient outcomes, streamline treatment and help radiotherapy planning. `Python` `PyTorch` `GAN` `Diffusion` `Transformers` `Computer Vision` `SWIN` 
 
 <img src="sct_animation.gif" width="480"/>
