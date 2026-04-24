@@ -1,5 +1,7 @@
 # Samuel Wallace
 
+**@ BMVC 2026 — under review**
+
 MSc Artificial Intelligence @ University of Zurich · BSc Mathematics (First Class) @ University of Bristol
 
 ---
