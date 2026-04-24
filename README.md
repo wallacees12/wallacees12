@@ -6,7 +6,7 @@ MSc Artificial Intelligence @ University of Zurich · BSc Mathematics (First Cla
 
 ## What I'm up to
 
-Just finished my Master's thesis at the [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/) at UZH, working on high-temporal-resolution 3D facial tracking using event cameras — fitting a FLAME head model at sub-frame resolution by using the microsecond-level output of neuromorphic sensors to track landmarks between video frames. Captures blinking, jaw movement, and rapid head rotations that standard video completely misses. Preparing a submission to **BMVC 2026**.
+Just finished my Master's thesis at the [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/) at UZH, working on high-temporal-resolution 3D facial tracking using event cameras — fitting a FLAME head model at sub-frame resolution by using the microsecond-level output of neuromorphic sensors to track landmarks between video frames. Captures blinking, jaw movement, and rapid head rotations that standard video completely misses. Submitted to **BMVC 2026** — currently under review.
 
 In August I'm joining **Expedia Group** as a Machine Learning Scientist.
 
