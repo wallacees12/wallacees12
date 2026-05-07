@@ -2,7 +2,7 @@
 
 **@ BMVC 2026 — under review**
 
-MSc Artificial Intelligence @ University of Zurich · BSc Mathematics (First Class) @ University of Bristol
+MSc Artificial Intelligence @ UZH | ETH · BSc Mathematics (First Class) @ University of Bristol
 
 ---
 
