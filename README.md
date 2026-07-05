@@ -8,7 +8,7 @@ MSc Artificial Intelligence @ UZH | ETH · BSc Mathematics (First Class) @ Unive
 
 ## What I'm up to
 
-Just finished my Master's thesis at the [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/) at UZH, working on high-temporal-resolution 3D facial tracking using event cameras — fitting a FLAME head model at sub-frame resolution by using the microsecond-level output of neuromorphic sensors to track landmarks between video frames. Captures blinking, jaw movement, and rapid head rotations that standard video completely misses. Submitted to **BMVC 2026** — currently under review.
+Just finished my Master's thesis at the [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/) at UZH, working on **Event-based Facial Reconstruction (EFR)** — high-temporal-resolution 3D facial tracking with event cameras that fits a FLAME head model at sub-frame resolution by using the microsecond-level output of neuromorphic sensors to track landmarks between video frames. Captures blinking, jaw movement, and rapid head rotations that standard video completely misses. Submitted to **BMVC 2026** — currently under review.
 
 In August I'm joining **Expedia Group** as a Machine Learning Scientist.
 
@@ -18,7 +18,7 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 ## Projects
 
-**[Event-based Facial Tracking](https://github.com/wallacees12/EFT)** — MSc thesis. Event cameras + ETAP landmark tracking + B-spline fitting + two-pass FLAME optimisation. Beats linear interpolation and TimeLens on FAN landmark error across all rapid motion sequences. `Python` `PyTorch` `Computer Vision`
+**[Event-based Facial Reconstruction (EFR)](https://github.com/wallacees12/EFT)** — MSc thesis, now written up as a paper **under review at BMVC 2026**. Event cameras + ETAP landmark tracking + B-spline fitting + two-pass FLAME optimisation. Beats linear interpolation and TimeLens on FAN landmark error across all rapid motion sequences. `Python` `PyTorch` `Computer Vision`
 
 <img src="event_on_mesh.gif" width="380"/>
 
@@ -27,6 +27,8 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 <img src="https://raw.githubusercontent.com/wallacees12/BabelBias/main/assets/pca_space.gif" width="480"/>
 
 **[ecotools](https://ecotools.nz)** — A production web platform for ecological data analysis in Aotearoa New Zealand. Researchers upload acoustic recordings and camera-trap imagery from a shared browser workspace and queue GPU-accelerated inference jobs: **BirdNET** for bioacoustic bird-call identification, **MegaDetector / SpeciesNet** for animal, person and vehicle detection with NZ-specific geofencing, plus environmental lab-report CSV conversion. Full-stack and live — Cloudflare Workers frontend, Supabase (Postgres, Auth, Storage, Edge Functions), Modal GPU inference, Stripe credit billing, and an 8-language i18n layer. `TypeScript` `Cloudflare Workers` `Supabase` `Modal` `PyTorch` `Stripe`
+
+<img src="ecotools_demo.gif" width="820"/>
 
 **[Synthetic CT Generation](https://github.com/wallacees12/3d-pix2pix-CycleGAN)** — Competed in global competition to push the frontier of MR to CT synthesis in order to improve patient outcomes, streamline treatment and help radiotherapy planning. `Python` `PyTorch` `GAN` `Diffusion` `Transformers` `Computer Vision` `SWIN` 
 
