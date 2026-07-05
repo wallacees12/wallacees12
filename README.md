@@ -38,23 +38,23 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 <img src="cancer_demo.png" width="720"/>
 
-**[GeoGuessr Game](https://github.com/wallacees12/SoPra-Client)** — Full-stack web GeoGuessr-style game built for the UZH Software Practice course. React/TypeScript frontend, Java Spring Boot backend, multiplayer support. `Java` `TypeScript` `React` `Spring Boot`
-
-<img src="mapmystery_demo.gif" width="720"/>
-
 **[Movie Chatbot (ATAI)](https://github.com/wallacees12/Chatbot_ATAI)** — Knowledge-graph-backed conversational agent for movie Q&A. SPARQL queries over an RDF graph, spaCy NER + hardcoded entity linking, TransE embedding fallback for unseen relations, crowd-sourced answer validation, and a multimedia branch that retrieves IMDb stills. Built for UZH's Advanced Topics in AI course. `Python` `RDF` `SPARQL` `spaCy` `PyTorch`
 
 <img src="chatbot_demo.gif" width="900"/>
 
 **[Laplacian Attention](https://github.com/wallacees12/AML-Laplacian-Attention)** — Self-attention variant extending Gaussian attention with Laplacian approximations for improved interpretability. Evaluated on Meta's LLaMA 7B. `Python` `PyTorch` `NLP`
 
-**[OpenMP Parallelisation](https://github.com/wallacees12/OpenMP-Parallelisation)** — High-performance parallel computing in C with OpenMP, including a multi-threaded N-body galaxy simulation (galsim) with per-thread force accumulation and barrier-free reduction. `C` `OpenMP`
-
-<img src="nbody_demo.gif" width="480"/>
-
 **[Sign Language Translator](https://github.com/wallacees12/Sign-Language-Detection)** — Real-time ASL fingerspelling. A feed-forward network classifies MediaPipe hand-keypoint geometry (21 landmarks, 3D) and spells words live from the webcam by holding each letter for one second. >90% accuracy on the keypoint model, vs >75% for a raw-image CNN baseline. `Python` `MediaPipe` `TensorFlow` `Computer Vision`
 
 <img src="sign_language_demo.gif" width="600"/>
+
+**[GeoGuessr Game](https://github.com/wallacees12/SoPra-Client)** — Full-stack web GeoGuessr-style game built for the UZH Software Practice course. React/TypeScript frontend, Java Spring Boot backend, multiplayer support. `Java` `TypeScript` `React` `Spring Boot`
+
+<img src="mapmystery_demo.gif" width="720"/>
+
+**[OpenMP Parallelisation](https://github.com/wallacees12/OpenMP-Parallelisation)** — High-performance parallel computing in C with OpenMP, including a multi-threaded N-body galaxy simulation (galsim) with per-thread force accumulation and barrier-free reduction. `C` `OpenMP`
+
+<img src="nbody_demo.gif" width="480"/>
 
 ---
 
