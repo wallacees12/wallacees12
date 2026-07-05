@@ -26,6 +26,8 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 <img src="https://raw.githubusercontent.com/wallacees12/BabelBias/main/assets/pca_space.gif" width="480"/>
 
+**[ecotools](https://ecotools.nz)** — A production web platform for ecological data analysis in Aotearoa New Zealand. Researchers upload acoustic recordings and camera-trap imagery from a shared browser workspace and queue GPU-accelerated inference jobs: **BirdNET** for bioacoustic bird-call identification, **MegaDetector / SpeciesNet** for animal, person and vehicle detection with NZ-specific geofencing, plus environmental lab-report CSV conversion. Full-stack and live — Cloudflare Workers frontend, Supabase (Postgres, Auth, Storage, Edge Functions), Modal GPU inference, Stripe credit billing, and an 8-language i18n layer. `TypeScript` `Cloudflare Workers` `Supabase` `Modal` `PyTorch` `Stripe`
+
 **[Synthetic CT Generation](https://github.com/wallacees12/3d-pix2pix-CycleGAN)** — Competed in global competition to push the frontier of MR to CT synthesis in order to improve patient outcomes, streamline treatment and help radiotherapy planning. `Python` `PyTorch` `GAN` `Diffusion` `Transformers` `Computer Vision` `SWIN` 
 
 <img src="sct_animation.gif" width="480"/>
