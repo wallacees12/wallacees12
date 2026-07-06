@@ -20,7 +20,7 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 **[Event-based Facial Reconstruction (EFR)](https://github.com/wallacees12/EFT)** — MSc thesis, now written up as a paper **under review at BMVC 2026**. Event cameras + ETAP landmark tracking + B-spline fitting + two-pass FLAME optimisation. Beats linear interpolation and TimeLens on FAN landmark error across all rapid motion sequences. `Python` `PyTorch` `Computer Vision`
 
-<img src="event_on_mesh.gif" width="380"/>
+<img src="event_on_mesh_v2.gif" width="380"/>
 
 **[BabelBias](https://github.com/wallacees12/BabelBias)** — Investigating whether LLMs exhibit ingroup bias when prompted in different languages about geopolitically contested events. Embeds Wikipedia articles and LLM responses (GPT, Claude, Gemini) across EN/RU/UK to measure whether each language's response drifts toward its own Wikipedia framing. `Python` `OpenAI` `Anthropic` `Gemini` `NLP` `Embeddings`
 
@@ -28,11 +28,11 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 **[ecotools](https://ecotools.nz)** — A production web platform for ecological data analysis in Aotearoa New Zealand. Researchers upload acoustic recordings and camera-trap imagery from a shared browser workspace and queue GPU-accelerated inference jobs: **BirdNET** for bioacoustic bird-call identification, **MegaDetector / SpeciesNet** for animal, person and vehicle detection with NZ-specific geofencing, plus environmental lab-report CSV conversion. Full-stack and live — Cloudflare Workers frontend, Supabase (Postgres, Auth, Storage, Edge Functions), Modal GPU inference, Stripe credit billing, and an 8-language i18n layer. `TypeScript` `Cloudflare Workers` `Supabase` `Modal` `PyTorch` `Stripe`
 
-<img src="ecotools_demo.gif" width="820"/>
+<img src="ecotools_demo_v2.gif" width="820"/>
 
 **[Synthetic CT Generation](https://github.com/wallacees12/3d-pix2pix-CycleGAN)** — Competed in global competition to push the frontier of MR to CT synthesis in order to improve patient outcomes, streamline treatment and help radiotherapy planning. `Python` `PyTorch` `GAN` `Diffusion` `Transformers` `Computer Vision` `SWIN` 
 
-<img src="sct_animation.gif" width="480"/>
+<img src="sct_animation_v2.gif" width="480"/>
 
 **[Multimodal Cancer Classification](https://github.com/wallacees12/Multimodal_Cancer_Classification_Challenge_2025)** — Binary cancer cell classification combining bright-field and fluorescence microscopy into 6-channel inputs for a fine-tuned ConvNeXt-Large. Top finish in the UZH challenge. `Python` `PyTorch`
 
@@ -40,21 +40,21 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 **[Movie Chatbot (ATAI)](https://github.com/wallacees12/Chatbot_ATAI)** — Knowledge-graph-backed conversational agent for movie Q&A. SPARQL queries over an RDF graph, spaCy NER + hardcoded entity linking, TransE embedding fallback for unseen relations, crowd-sourced answer validation, and a multimedia branch that retrieves IMDb stills. Built for UZH's Advanced Topics in AI course. `Python` `RDF` `SPARQL` `spaCy` `PyTorch`
 
-<img src="chatbot_demo.gif" width="900"/>
+<img src="chatbot_demo_v2.gif" width="900"/>
 
 **[Laplacian Attention](https://github.com/wallacees12/AML-Laplacian-Attention)** — Self-attention variant extending Gaussian attention with Laplacian approximations for improved interpretability. Evaluated on Meta's LLaMA 7B. `Python` `PyTorch` `NLP`
 
 **[Sign Language Translator](https://github.com/wallacees12/Sign-Language-Detection)** — Real-time ASL fingerspelling. A feed-forward network classifies MediaPipe hand-keypoint geometry (21 landmarks, 3D) and spells words live from the webcam by holding each letter for one second. >90% accuracy on the keypoint model, vs >75% for a raw-image CNN baseline. `Python` `MediaPipe` `TensorFlow` `Computer Vision`
 
-<img src="sign_language_demo.gif" width="600"/>
+<img src="sign_language_demo_v2.gif" width="600"/>
 
 **[GeoGuessr Game](https://github.com/wallacees12/SoPra-Client)** — Full-stack web GeoGuessr-style game built for the UZH Software Practice course. React/TypeScript frontend, Java Spring Boot backend, multiplayer support. `Java` `TypeScript` `React` `Spring Boot`
 
-<img src="mapmystery_demo.gif" width="720"/>
+<img src="mapmystery_demo_v2.gif" width="720"/>
 
 **[OpenMP Parallelisation](https://github.com/wallacees12/OpenMP-Parallelisation)** — High-performance parallel computing in C with OpenMP, including a multi-threaded N-body galaxy simulation (galsim) with per-thread force accumulation and barrier-free reduction. `C` `OpenMP`
 
-<img src="nbody_demo.gif" width="480"/>
+<img src="nbody_demo_v2.gif" width="480"/>
 
 ---
 
