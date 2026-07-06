@@ -24,7 +24,7 @@ I also TA'd the graduate [Reinforcement Learning course](https://sites.google.co
 
 **[BabelBias](https://github.com/wallacees12/BabelBias)** — Investigating whether LLMs exhibit ingroup bias when prompted in different languages about geopolitically contested events. Embeds Wikipedia articles and LLM responses (GPT, Claude, Gemini) across EN/RU/UK to measure whether each language's response drifts toward its own Wikipedia framing. `Python` `OpenAI` `Anthropic` `Gemini` `NLP` `Embeddings`
 
-<img src="https://raw.githubusercontent.com/wallacees12/BabelBias/main/assets/pca_space.gif" width="480"/>
+<img src="pca_space.gif" width="480"/>
 
 **[ecotools](https://ecotools.nz)** — A production web platform for ecological data analysis in Aotearoa New Zealand. Researchers upload acoustic recordings and camera-trap imagery from a shared browser workspace and queue GPU-accelerated inference jobs: **BirdNET** for bioacoustic bird-call identification, **MegaDetector / SpeciesNet** for animal, person and vehicle detection with NZ-specific geofencing, plus environmental lab-report CSV conversion. Full-stack and live — Cloudflare Workers frontend, Supabase (Postgres, Auth, Storage, Edge Functions), Modal GPU inference, Stripe credit billing, and an 8-language i18n layer. `TypeScript` `Cloudflare Workers` `Supabase` `Modal` `PyTorch` `Stripe`
 
