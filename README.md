@@ -2,6 +2,7 @@
 
 **@ BMVC 2026 — under review**
 
+Expedia Machine Learning Scientist
 MSc Artificial Intelligence @ UZH | ETH · BSc Mathematics (First Class) @ University of Bristol
 
 ---
@@ -9,10 +10,6 @@ MSc Artificial Intelligence @ UZH | ETH · BSc Mathematics (First Class) @ Unive
 ## What I'm up to
 
 Just finished my Master's thesis at the [Robotics and Perception Group (RPG)](https://rpg.ifi.uzh.ch/) at UZH, working on **Event-based Facial Reconstruction (EFR)** — high-temporal-resolution 3D facial tracking with event cameras that fits a FLAME head model at sub-frame resolution by using the microsecond-level output of neuromorphic sensors to track landmarks between video frames. Captures blinking, jaw movement, and rapid head rotations that standard video completely misses. Submitted to **BMVC 2026** — currently under review.
-
-In August I'm joining **Expedia Group** as a Machine Learning Scientist.
-
-I also TA'd the graduate [Reinforcement Learning course](https://sites.google.com/view/alpi-lab) at UZH.
 
 ---
 
