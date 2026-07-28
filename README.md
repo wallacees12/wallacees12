@@ -2,7 +2,7 @@
 
 **@ BMVC 2026 — under review**
 
-Expedia Machine Learning Scientist
+Expedia Machine Learning Scientist |
 MSc Artificial Intelligence @ UZH | ETH · BSc Mathematics (First Class) @ University of Bristol
 
 ---
